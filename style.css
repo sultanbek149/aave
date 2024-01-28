@@ -1,0 +1,233 @@
+.css-1xq823w {
+  position: relative;
+  display: inline-flex;
+  vertical-align: middle;
+  flex-shrink: 0;
+  margin-right: 8px;
+}
+
+.css-1rsxos5 {
+  display: inline-flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  position: relative;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+  outline: 0px;
+  margin: 0px;
+  cursor: pointer;
+  user-select: none;
+  vertical-align: middle;
+  appearance: none;
+  text-decoration: none;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+    box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+    border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+    color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  box-shadow: none;
+  border-radius: 4px;
+  font-family: Inter, Arial;
+  font-weight: 500;
+  line-height: 1.5rem;
+  font-size: 0.875rem;
+  color: rgb(255, 255, 255);
+  border: 1px solid rgba(235, 235, 237, 0.12);
+  background-color: rgb(56, 61, 81);
+  padding: 7px 8px;
+  min-width: unset;
+  gap: 8px;
+  -webkit-box-align: center;
+  align-items: center;
+}
+
+.css-sw696k {
+  margin: 0px;
+  font-family: Inter, Arial;
+  font-weight: 600;
+  letter-spacing: 0.009375rem;
+  line-height: 1.25rem;
+  font-size: 0.875rem;
+}
+
+.css-g7go18 {
+  user-select: none;
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  fill: currentcolor;
+  flex-shrink: 0;
+  transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  font-size: 1.25rem;
+}
+
+.css-1xq823w .MuiBadge-badge {
+  top: 2px;
+  right: 2px;
+  border-radius: 20px;
+  width: 10px;
+  height: 10px;
+  background-color: rgb(255, 96, 123);
+  color: rgb(255, 96, 123);
+}
+
+.css-ffc7i5 {
+  display: flex;
+  flex-flow: wrap;
+  -webkit-box-pack: center;
+  place-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  position: absolute;
+  box-sizing: border-box;
+  font-family: Inter, Arial;
+  font-weight: 500;
+  font-size: 0.75rem;
+  min-width: 8px;
+  line-height: 1;
+  padding: 0px;
+  height: 8px;
+  border-radius: 4px;
+  z-index: 1;
+  transition: transform 225ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  background-color: rgb(255, 96, 123);
+  color: rgba(0, 0, 0, 0.87);
+  top: 0px;
+  right: 0px;
+  transform: scale(1) translate(50%, -50%);
+  transform-origin: 100% 0%;
+}
+
+.css-1xq823w .MuiBadge-badge::after {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  animation: 1.2s ease-in-out 0s infinite normal none running ripple;
+  border: 1px solid currentcolor;
+  content: "";
+}
+
+@keyframes ripple {
+  0% {
+    transform: scale(0.8);
+    opacity: 1;
+  }
+
+  100% {
+    transform: scale(2.4);
+    opacity: 0;
+  }
+}
+
+.css-1x4zjhu {
+    margin: 0px;
+    font-family: Inter, Arial;
+    font-weight: 800;
+    line-height: 133.4%;
+    font-size: 1.3125rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    display: inline-flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    position: relative;
+}
+
+.css-jsj201 {
+    margin: 0px 0px 0px 2px;
+    font-family: Inter, Arial;
+    font-weight: 500;
+    line-height: 133.4%;
+    font-size: 1.3125rem;
+    color: rgb(165, 168, 182);
+    margin-left: 5px;
+}
+
+.css-vj5di1 {
+    margin: 0px 2px 0px 0px;
+    font-family: Inter, Arial;
+    font-weight: 500;
+    line-height: 133.4%;
+    font-size: 1.3125rem;
+    color: rgb(165, 168, 182);
+}
+
+.css-a6b3rd {
+    margin: 0;
+    font-family: Inter,Arial;
+    font-weight: 400;
+    letter-spacing: 0.009375rem;
+    line-height: 143%;
+    font-size: 0.875rem;
+    color: #383D51;
+    -webkit-text-decoration: none;
+    text-decoration: none;
+    display: -webkit-inline-box;
+    display: -webkit-inline-flex;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    position: relative;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    background-color: transparent;
+    outline: 0;
+    border: 0;
+    margin: 0;
+    border-radius: 0;
+    padding: 0;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    vertical-align: middle;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    -webkit-text-decoration: none;
+    text-decoration: none;
+    color: inherit;
+    min-width: 64px;
+    padding: 6px 8px;
+    border-radius: 4px;
+    -webkit-transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    color: #383D51;
+    box-shadow: none;
+    border-radius: 4px;
+    font-family: Inter,Arial;
+    font-weight: 500;
+    line-height: 1.5rem;
+    font-size: 0.875rem;
+    padding: 6px 12px;
+    color: #F1F1F3;
+    padding: 6px 8px;
+    position: relative;
+}
+
+.css-w0pj6f {
+    overflow: hidden;
+    pointer-events: none;
+    position: absolute;
+    z-index: 0;
+    inset: 0px;
+    border-radius: inherit;
+}
+
+.css-sfox7e {
+    width: unset;
+    margin-right: 8px;
+}
+
+
